@@ -1,0 +1,369 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Add like" : {
+      "comment" : "Breed image view liked button - add",
+      "localizations" : {
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gilla"
+          }
+        }
+      }
+    },
+    "An error has occurred!" : {
+      "comment" : "Error view - title",
+      "localizations" : {
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ett fel har inträffat!"
+          }
+        }
+      }
+    },
+    "Are you sure you want to remove all liked images?" : {
+      "comment" : "Liked image view alert - message",
+      "localizations" : {
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Är du säker på att du vill radera alla gillade bilder?"
+          }
+        }
+      }
+    },
+    "Are you sure you want to remove the image from liked images?" : {
+      "comment" : "Breed image view alert - message",
+      "localizations" : {
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Är du säker på att du vill ta bort bilden från gillade bilder?"
+          }
+        }
+      }
+    },
+    "Breeds" : {
+      "comment" : "Content view tab - Breeds list",
+      "localizations" : {
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hundraser"
+          }
+        }
+      }
+    },
+    "Delete" : {
+      "comment" : "Breed image view alert - button\nLiked image view alert - button",
+      "localizations" : {
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Radera"
+          }
+        }
+      }
+    },
+    "Dog Breeds" : {
+      "comment" : "Breed list view - title",
+      "localizations" : {
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hundraser"
+          }
+        }
+      }
+    },
+    "Error fetching data over the network." : {
+      "comment" : "Error - network",
+      "localizations" : {
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nätverksfel vid hämtning av data"
+          }
+        }
+      }
+    },
+    "Error parsing data: %@" : {
+      "comment" : "Error - parsing",
+      "localizations" : {
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fel vid konvertering av data: %@"
+          }
+        }
+      }
+    },
+    "Featured" : {
+      "comment" : "Content view tab - Featured images",
+      "localizations" : {
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utvalt"
+          }
+        }
+      }
+    },
+    "Featured breed" : {
+      "comment" : "Featured image view accessibility label - image",
+      "localizations" : {
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utvald hundras"
+          }
+        }
+      }
+    },
+    "Featured Images" : {
+      "comment" : "Featured image view - Title",
+      "localizations" : {
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utvalda bilder"
+          }
+        }
+      }
+    },
+    "Filter menu" : {
+      "comment" : "Breed list view menu accessibility label - filter\nLiked image view menu accessibility label - filter",
+      "localizations" : {
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filtermeny"
+          }
+        }
+      }
+    },
+    "Filter options" : {
+      "comment" : "Breed list view menu accessibility label - options\nLiked image view menu accessibility label - options",
+      "localizations" : {
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filteralternativ"
+          }
+        }
+      }
+    },
+    "Image filenamne" : {
+      "comment" : "Breed image view accessibility label - filenamne",
+      "localizations" : {
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bildens filnamn"
+          }
+        }
+      }
+    },
+    "Invalid URL." : {
+      "comment" : "Error - url",
+      "localizations" : {
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ogiltig URL"
+          }
+        }
+      }
+    },
+    "Liked" : {
+      "comment" : "Content view tab - Liked images",
+      "localizations" : {
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gillat"
+          }
+        }
+      }
+    },
+    "Liked images" : {
+      "comment" : "Liked image view - title",
+      "localizations" : {
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gillade bilder"
+          }
+        }
+      }
+    },
+    "No likes" : {
+      "comment" : "Liked image view unavailable - title",
+      "localizations" : {
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inga gillade bilder"
+          }
+        }
+      }
+    },
+    "Refresh" : {
+      "comment" : "Featured image view button - refresh",
+      "localizations" : {
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uppdatera"
+          }
+        }
+      }
+    },
+    "Remove all" : {
+      "comment" : "Liked image view button accessibility label - remove",
+      "localizations" : {
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Radera allt"
+          }
+        }
+      }
+    },
+    "Remove like" : {
+      "comment" : "Breed image view liked button - remove",
+      "localizations" : {
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ta bort gilla"
+          }
+        }
+      }
+    },
+    "Show breed image" : {
+      "comment" : "Breed image grid view button accessibility label - show image",
+      "localizations" : {
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visa hundbild"
+          }
+        }
+      }
+    },
+    "Show breeds" : {
+      "comment" : "Breed list view button accessibility label - show breeds",
+      "localizations" : {
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visa hundraser"
+          }
+        }
+      }
+    },
+    "Show liked breed image" : {
+      "comment" : "Breed image grid view button accessibility label - show liked image",
+      "localizations" : {
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visa gillad hundbild"
+          }
+        }
+      }
+    },
+    "Show liked image: %@" : {
+      "comment" : "Liked image view - show liked image",
+      "localizations" : {
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visa gillad bild: %@"
+          }
+        }
+      }
+    },
+    "Show sub-breeds" : {
+      "comment" : "Breed list view menu - show sub-breeds",
+      "localizations" : {
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visa underraser"
+          }
+        }
+      }
+    },
+    "Sort" : {
+      "comment" : "Breed list view button accessibility label - sort\nLiked image view button accessibility label - sort",
+      "localizations" : {
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sortera"
+          }
+        }
+      }
+    },
+    "Storage error: %@" : {
+      "comment" : "Error - storage",
+      "localizations" : {
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lagringsfel: %@"
+          }
+        }
+      }
+    },
+    "Toggle only liked images" : {
+      "comment" : "Breed image grid view button accessibility label - toggle liked images",
+      "localizations" : {
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Växla mellan endast gillade bilder"
+          }
+        }
+      }
+    },
+    "Try again later." : {
+      "comment" : "Error view - guidance",
+      "localizations" : {
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Försök igen senare"
+          }
+        }
+      }
+    },
+    "Warning" : {
+      "comment" : "Breed image view alert - title\nLiked image view alert - title",
+      "localizations" : {
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varning"
+          }
+        }
+      }
+    },
+    "You have not liked any images" : {
+      "comment" : "Liked image view unavailable - message",
+      "localizations" : {
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du har inte gillat några bilder"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
